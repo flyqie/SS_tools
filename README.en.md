@@ -23,10 +23,7 @@ The developer shall not be liable for any losses, liabilities, or legal risks ar
 (To prevent abuse of the technology in violation of laws and regulations, this plugin is prohibited for use in Chinese mainland and Hong Kong.)
 
 ## Related Links:
-- Wan2.2Remix Image-to-Video: Full Demo of Duck Image: https://www.runninghub.cn/post/2057468310819786754/?inviteCode=rh-v1393
-- Scail Motion Transfer: https://www.runninghub.ai/post/2001603322555559938/?inviteCode=rh-v1393
-- Wan2.2Remix High-Quality Text-to-Video: https://www.runninghub.cn/post/1988716572640423937/?inviteCode=rh-v1393
-- Special Thanks to T8 for Supporting This Project: https://www.bilibili.com/video/BV1vqqeB1ENo/
+
 - Discussion QQ Group: 1020585041 164930465
 
 ## Example:

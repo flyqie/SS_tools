@@ -31,13 +31,8 @@ Your use or deployment of this project shall constitute your acceptance of the a
 （为防止技术被滥用违反法律法规，中国大陆及香港地区不支持使用此浏览器插件）
 
 ## 相关链接：
-- Wan2.2Remix图生视频鸭子图完整演示:https://www.runninghub.cn/post/2057468310819786754/?inviteCode=rh-v1393
-- Scail动作迁移 https://www.runninghub.cn/post/2001603322555559938/?inviteCode=rh-v1393
-- Wan2.2Remix高质量文生视频 https://www.runninghub.cn/post/1988716572640423937/?inviteCode=rh-v1393
-- 感谢T8对本项目的支持：https://www.bilibili.com/video/BV1vqqeB1ENo/
+
 - 交流Q群：1020585041 164930465
-- AIGC交流群：
-- <img alt="AIGC交流微信群" height="410" src="https://github.com/copyangle/SS_tools/blob/main/AIGCgroup.jpg" title="AIGC交流微信群" width="250"/>
 
 ## Example:
 隐藏保护图片和视频工作流
