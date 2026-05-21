@@ -20,20 +20,14 @@ The developer shall not be liable for any losses, liabilities, or legal risks ar
 - Provide local tools for macOS
 - Duck Image Local UI Decoder Lite V1.0: 鸭鸭图本地UI解码工具精简版V1.0.rar
 - Duck Browser Extension：http://duckp.airush.top/
-- Duck Decoder Web：https://duck.airush.top
+(To prevent abuse of the technology in violation of laws and regulations, this plugin is prohibited for use in Chinese mainland and Hong Kong.)
 
 ## Related Links:
-- Video Tutorial: https://www.bilibili.com/video/BV1w6qYBREzV
-- Video Duck Browser Extension：https://www.bilibili.com/video/BV1QaAozBE2H
-- Video Tutorial Collection: https://space.bilibili.com/3690984330234757/lists/7159610?type=season
-- Web Version User Guide: https://www.bilibili.com/video/BV1K2icBqES3/
-- Ready-made Workflow: https://www.runninghub.ai/post/2000762471365439490/?inviteCode=rh-v1393
-- Unrestricted Wan2.2Remix Image-to-Video: Full Demo of Duck Image: https://www.runninghub.ai/ai-detail/2000755012961792002/?inviteCode=rh-v1393
-- Unrestricted Scail Motion Transfer: https://www.runninghub.ai/post/2001603322555559938/?inviteCode=rh-v1393
-- Unrestricted Wan2.2Remix High-Quality Text-to-Video: https://www.runninghub.cn/post/1988716572640423937/?inviteCode=rh-v1393
+- Wan2.2Remix Image-to-Video: Full Demo of Duck Image: https://www.runninghub.cn/post/2057468310819786754/?inviteCode=rh-v1393
+- Scail Motion Transfer: https://www.runninghub.ai/post/2001603322555559938/?inviteCode=rh-v1393
+- Wan2.2Remix High-Quality Text-to-Video: https://www.runninghub.cn/post/1988716572640423937/?inviteCode=rh-v1393
 - Special Thanks to T8 for Supporting This Project: https://www.bilibili.com/video/BV1vqqeB1ENo/
-- Discussion QQ Group: 1067393850
-- Little Yellow Duck Decoder - Free Web Version：https://duck.airush.top
+- Discussion QQ Group: 1020585041 164930465
 
 ## Example:
 Workflow for hiding and protecting images and videos
